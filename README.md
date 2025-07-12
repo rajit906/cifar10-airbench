@@ -20,7 +20,7 @@ For comparison, the standard training used in most studies on CIFAR-10 is much s
 The current speedrun record for 94% on CIFAR-10 can be run via:
 ```
 git clone https://github.com/KellerJordan/cifar10-airbench.git
-cd airbench
+cd cifar10-airbench
 python airbench94_muon.py
 ```
 
